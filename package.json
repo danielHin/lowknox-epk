@@ -17,6 +17,7 @@
   "dependencies": {
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.31",
+    "tw-elements": "^1.0.0",
     "vite": "^4.4.11"
   }
 }
