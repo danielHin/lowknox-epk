@@ -1,0 +1,22 @@
+{
+  "name": "lowknox-epk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite src/",
+    "build": "vite build src/ --outDir ../dist/",
+    "preview": "vite preview src/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Hindenlang",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "vite": "^4.4.11"
+  }
+}
